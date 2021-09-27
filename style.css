@@ -1,0 +1,54 @@
+img{
+    max-width: 100%;
+}
+.header_logo img{
+    width: 100px;
+}
+.min_bg{
+    background-color: #f7f9ff;
+}
+.bg{
+    background-color: #8490ff;
+}
+.f_bg{
+    background-color: #04091e;
+}
+/* ===>>> header section <<<=== */
+.john_header{
+    height: 80px;
+}
+.john_header .size_image{
+    height: 60px;
+}
+.card{}
+
+/* ===>>> pricing section <<<=== */
+.pricing .card_number {
+	width: 90px;
+	height: 90px;
+}
+.pricing .card_number h1{
+    line-height: 80px;
+    margin: auto;
+}
+
+/* ===>>> testimonial section <<<=== */
+.testimonial .card img {
+	width: 75px;
+	margin-top: -45px;
+	margin-left: 15px;
+}
+
+
+
+/* ============>>>>RESPONSIVE CSS<<<<<<============== */
+/* ============>>>>RESPONSIVE CSS<<<<<<============== */
+
+@media (max-width: 1200px){
+    .card {
+        margin-bottom: 80px;
+    }
+}
+
+
+
